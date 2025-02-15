@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Abhilash Surapuchetty</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&width=600&lines=AI+%7C+ML+%7C+MERN+Stack+Developer;Passionate+about+Open+Source;Leetcode+Enthusiast+%7C+Problem+Solver;Building+Cool+Projects+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&width=600&lines=AI+%7C+ML+%7C+MERN+Stack+Developer;Passionate+about+Open+Source;LeetCode+Enthusiast+%7C+Problem+Solver;Building+Cool+Projects+with+Code" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,26 +24,26 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Streak Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alash0849&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alash0849&theme=radical" alt="Streak Stats" height="180px"/>
 </p>
 
 ---
 
 ### 🌟 **LeetCode & Competitive Programming**
-- 🏅 Solved **275** problems on [LeetCode](https://leetcode.com/u/alash0849/)
+- 🏅 Solved **X+** problems on [LeetCode](https://leetcode.com/u/alash0849/)
 - 🏆 Regular participant in coding contests.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Profile">
+  <img src="https://leetcard.jacoblin.cool/alash0849?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Profile">
 </p>
 
 ---
 
 ### 📂 **Projects**
-- 🚀 **[Agromart](https://github.com/your-github/agromart)** – Grocery shopping web app (MERN).
-- 🏗 **[Sign Language to Text](https://github.com/your-github/sign-language-nlp)** – NLP-based sign language translation.
-- 🔍 **[Traffic Volume Prediction](https://github.com/your-github/traffic-prediction)** – ML model for metro traffic analysis.
+- 🚀 **[Agromart](https://github.com/alash0849/agromart)** – Grocery shopping web app (MERN).
+- 🏗 **[Sign Language to Text](https://github.com/alash0849/sign-language-nlp)** – NLP-based sign language translation.
+- 🔍 **[Traffic Volume Prediction](https://github.com/alash0849/traffic-prediction)** – ML model for metro traffic analysis.
 
 ---
 
@@ -57,4 +57,3 @@
 ---
 
 ⭐ **Star some repositories if you like my work!** 🚀
-
