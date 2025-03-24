@@ -31,7 +31,6 @@
 ---
 
 ### 🌟 **LeetCode & Competitive Programming**
-- 🏅 Solved **275** problems on [LeetCode](https://leetcode.com/u/alash0849/)
 - 🏆 Regular participant in coding contests.
 
 <p align="center">
