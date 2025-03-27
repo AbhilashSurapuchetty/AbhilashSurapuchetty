@@ -40,9 +40,9 @@
 ---
 
 ### 📂 **Projects**
-- 🚀 **[Agromart](https://github.com/alash0849/agromart)** – Grocery shopping web app (MERN).
-- 🏗 **[Sign Language to Text](https://github.com/alash0849/sign-language-nlp)** – NLP-based sign language translation.
-- 🔍 **[Traffic Volume Prediction](https://github.com/alash0849/traffic-prediction)** – ML model for metro traffic analysis.
+- 🚀 **[Agromart](https://github.com/AbhilashSurapuchetty/E-commerce-Grocery-Website.git)** – Grocery shopping web app (MERN).
+- 🔍 **[Traffic Volume Prediction](https://github.com/AbhilashSurapuchetty/Traffic-Volume-Predictor.git)** – ML model for metro traffic analysis.
+- 🚀 **[AI Python Code Reviewer](https://ai-code-reviewer-qhdhwqdnjtgi2c7x7rbtpn.streamlit.app/)** – Python AI Code Reviewer.
 
 ---
 
