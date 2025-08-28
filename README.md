@@ -26,9 +26,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhilashSurapuchetty&show_icons=true&theme=radical&hide=stars" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhilashSurapuchetty&theme=radical" height="180px"/>
+  <img src="https://img.shields.io/github/followers/AbhilashSurapuchetty?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/AbhilashSurapuchetty?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/AbhilashSurapuchetty/E-commerce-Grocery-Website?style=for-the-badge" />
 </p>
+
 
 ---
 
