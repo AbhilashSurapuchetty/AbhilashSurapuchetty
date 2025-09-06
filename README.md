@@ -24,12 +24,27 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://img.shields.io/github/followers/AbhilashSurapuchetty?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/AbhilashSurapuchetty?style=for-the-badge" />
   <img src="https://img.shields.io/github/commit-activity/m/AbhilashSurapuchetty/E-commerce-Grocery-Website?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhilashSurapuchetty&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhilashSurapuchetty&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilashSurapuchetty&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 
 ---
