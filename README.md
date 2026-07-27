@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-🎓 3rd-year CS undergrad passionate about **AI/ML**, **GenAI**, and **Full-Stack Development**  
+🎓 B Tech CS undergrad passionate about **AI/ML**, **GenAI**, and **Full-Stack Development**  
 🧠 Core Member (**NLP & GenAI**) at **Epoch AI/ML Club**  
 🔭 Currently exploring **NLP**, **Generative AI**, and **cloud-integrated web apps**  
 💡 Learning by building and solving — active on **LeetCode** and **GitHub**  
