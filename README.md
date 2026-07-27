@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/AbhilashSurapuchetty?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/AbhilashSurapuchetty?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/AbhilashSurapuchetty/E-commerce-Grocery-Website?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AbhilashSurapuchetty&style=for-the-badge&color=blueviolet" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhilashSurapuchetty&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AbhilashSurapuchetty&theme=radical" /> alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -68,12 +68,20 @@
 ## 🌍 Open Source Contributions *(New!)*
 🔧 Actively contributing to beginner-friendly and AI-related repositories.  
 ✅ Check out my contributions [here](https://github.com/AbhilashSurapuchetty?tab=overview&from=2024-01-01&to=2025-12-31)  
+
 _(More coming soon...)_
 
 ---
 
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbhilashSurapuchetty/AbhilashSurapuchetty/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ## 📄 Resume
-📎 [View My Resume (Google Drive)](https://drive.google.com/your-resume-link-here)  
+📎 [View My Resume (Google Drive)](https://drive.google.com/file/d/1aRvh2kvV3yH2aLIzexhkIeLAcQYsDtLu/view?usp=sharing)  
 _Updated with projects, skills, and open-source work._
 
 ---
