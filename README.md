@@ -83,7 +83,7 @@ _(More coming soon...)_
 </p>
 
 ## 📄 Resume
-📎 [View My Resume (Google Drive)](https://drive.google.com/file/d/1aRvh2kvV3yH2aLIzexhkIeLAcQYsDtLu/view?usp=sharing)  
+📎 [View My Resume (Google Drive)](https://drive.google.com/file/d/1H4A7igdfjCQ-6BxvlL6-Z2ehkOhja5Ps/view?usp=sharing)  
 _Updated with projects, skills, and open-source work._
 
 ---
