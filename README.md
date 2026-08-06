@@ -8,15 +8,24 @@
 
 
 ## 🔗 Connect With Me
-<p align="center">
-  <a href="https://my-portfolio-kappa-nine-73.vercel.app/"
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhilash-surapuchetty-baa0a4267"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AbhilashSurapuchetty"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:alash0849@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
+<p align="center">
+  <a href="https://my-portfolio-kappa-nine-73.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abhilash-surapuchetty-baa0a4267">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/AbhilashSurapuchetty">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:alash0849@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
