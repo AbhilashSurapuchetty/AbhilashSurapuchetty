@@ -9,7 +9,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://my-portfolio-hi9b3jluk-abhilash-surapuchettys-projects.vercel.app/">
+  <a href="https://my-portfolio-kappa-nine-73.vercel.app/
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/abhilash-surapuchetty-baa0a4267"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
